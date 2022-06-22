@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.sec-one{
+    display: flex;
+    padding-bottom: 50px;
+}
+.div-one{
+    width: 40%;
+    margin: 4%;
+    padding: 2%;
+}
+.dis-h2{
+    font-size: 40px;
+}
+.dis-h1{
+    font-size: 45px;
+}
+.per{
+    text-align: justify;
+}
